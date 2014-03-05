@@ -1,0 +1,47 @@
+body {
+	font-family: sans-serif;
+}
+
+.main-section {
+	margin: auto;
+}
+
+.main-section {
+	text-align: left;
+}
+
+.segment {
+	text-align: left;
+}
+
+.psuedo-list {
+	margin: auto;
+	text-align: left;
+}
+
+.entry {
+	display: block;
+}
+
+.company {
+	margin: 1px;
+	padding: 0px;
+}
+
+.title {
+	margin: 1px;
+	padding: 0px;
+}
+
+.duration {
+	margin: 1px;
+	padding: 0px;
+}
+
+hr {
+	margin: auto;
+}
+
+footer {
+	padding-bottom: 25px;
+}
